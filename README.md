@@ -58,6 +58,7 @@ Se comparan regresión logística, árbol de decisión (profundidad 4) y Random 
 ```
 Proyecto_Final_Senior_JoseAgudelo.ipynb   Cuaderno documentado de principio a fin (carga, EDA, limpieza, modelos)
 Tablero_JoseAgudelo_v5.pbix               Tablero de Power BI de 4 páginas (requiere Power BI Desktop)
+Video_Presentacion_Narrativa_V7.mp4  Video de la presentación narrativa (sin audio)
 Presentacion_Proyecto_Final_Senior_JIAV_V64.pptx     Presentación académica
 Presentacion_Proyecto_Final_Senior_JIAV_V7_QRv.pptx   Presentación narrativa (data storytelling)
 salida/dataset_modelo_antioquia.csv       Datos limpios que alimentan el cuaderno y el tablero
